@@ -1,0 +1,71 @@
+body {
+    background: url('assets/pink_background.png') repeat;
+    color: #7C4A86;
+    font-family: 'BernhardMod BT', sans-serif;
+    line-height: 1.4;
+}
+
+pre {
+    font-family: monospace;
+    white-space: pre;
+    line-height: 1.2;
+    font-size: 14px;
+}
+
+.center {
+    text-align: center;
+}
+
+.poem-title {
+    font-size: large;
+    color: #7C4A86;
+    font-weight: bold;
+}
+
+.time {
+    font-size: 48px;
+    color: #8080FF;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.section-title {
+    font-family: 'BernhardMod BT';
+    color: #7C4A86;
+}
+
+.intro-text {
+    font-family: Arial Narrow;
+    font-size: medium;
+    color: #400080;
+}
+
+.description {
+    font-family: 'BernhardMod BT';
+    font-weight: bold;
+}
+
+.section-divider {
+    width: 80%;
+    border-color: #7C4A86;
+}
+
+.date {
+    color: #008080;
+    font-family: 'BernhardMod BT';
+}
+
+.reflection {
+    color: #0d6c6c;
+    font-family: 'BernhardMod BT';
+    font-size: large;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
