@@ -1,5 +1,5 @@
 body {
-    background: url('/assets/pink_background.png') repeat;
+    background: url('./assets/pink_background.png') repeat;
     color: #7C4A86;
     font-family: 'BernhardMod BT', sans-serif;
     line-height: 1.4;
