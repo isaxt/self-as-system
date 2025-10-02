@@ -1,0 +1,47 @@
+body {
+    background: url('./assets/blue_rose_background.jpg') repeat;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.header {
+  margin-bottom: 20px;
+}
+
+.main-title {
+    font-family: "Eras Demi ITC", sans-serif;
+    color: #2e2e2e;
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.notes {
+  width: 80%;
+  background-color: #fff;
+  border: 5px solid #808000;
+  border-collapse: collapse;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.note-title {
+    color: #FF0000;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.note-text {
+    color: #004080;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.5em;
+    line-height: 1.6;
+}

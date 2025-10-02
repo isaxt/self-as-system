@@ -36,13 +36,14 @@ pre {
 
 .intro-text {
     font-family: Arial Narrow;
-    font-size: medium;
+    font-size: large;
     color: #400080;
 }
 
 .description {
     font-family: 'BernhardMod BT';
     font-weight: bold;
+    font-size: large;
 }
 
 .section-divider {
@@ -53,12 +54,13 @@ pre {
 .date {
     color: #008080;
     font-family: 'BernhardMod BT';
+    font-size: large;
 }
 
 .reflection {
     color: #0d6c6c;
     font-family: 'BernhardMod BT';
-    font-size: large;
+    font-size: larger;
 }
 
 table {
