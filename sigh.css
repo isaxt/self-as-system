@@ -1,0 +1,50 @@
+body {
+    background: url('./assets/purple_swirl_background.jpg') repeat;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.header {
+  margin-bottom: 10px;
+}
+
+.main-title {
+    font-family: "Eras Demi ITC", sans-serif;
+    color: #102a7d;
+    font-size: 2.2em;
+    text-align: center;
+    font-weight: bold;
+}
+
+.notes {
+  width: 80%;
+  background-color: #e4dafa;
+  border: 5px solid #050247;
+  padding: 20px;
+  margin-bottom: 20px;
+
+  text-align: center;
+}
+
+.note-title {
+    color: #060115;
+    font-family: "Arial Narrow", sans-serif;
+    font-size: 1.2em;
+    font-weight: normal; 
+    line-height: 1.3;    
+    margin: 0.3em 0;  
+}
+
+.note-text {
+    color: #004080;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.2em;
+    font-weight: normal; 
+    line-height: 1.3;    
+    margin: 0.3em 0;  
+}

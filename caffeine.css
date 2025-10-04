@@ -1,0 +1,47 @@
+body {
+    background: url('./assets/red_background.jpg') repeat;
+    margin: 0;
+    font-family: "BernhardMod BT", serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.header {
+  margin-bottom: 15px;
+}
+
+.main-title {
+    font-family: "Eras Demi ITC", sans-serif;
+    color: #3a2424;
+    font-size: 2.5em;
+    text-align: center;
+}
+
+.notes {
+  width: 80%;
+  background-color: #d2cccc;
+  border: 2px solid #362424;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  padding: 15px;
+  margin-bottom: 15px;
+  line-height: 1.2;
+}
+
+.note-title {
+    color: #5b1c1c;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.2em;
+    margin: 0.3em 0;
+    line-height: 1.1;
+}
+
+.note-text {
+    color: #877637;
+    font-family: "Baskerville Old Face", serif;
+    font-size: 1.2em;
+    line-height: 1.2;
+    margin: 0.3em 0;
+}

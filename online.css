@@ -1,0 +1,46 @@
+body {
+  background: url('./assets/white_background.gif') repeat;
+  background-size: cover;
+  color: #2E5A5A;
+  font-family: "BernhardMod BT", serif;
+  margin: 2rem;
+}
+
+.title {
+  color: #004000;
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.section {
+  margin: 2rem 0;
+  font-size: 1.2rem;
+  line-height: 1.2;
+  font-style: italic;
+}
+
+.section-divider {
+  border: none;
+  height: 2px;
+  background-color: #7822F9;
+  margin: 1.5 rem 0;
+}
+
+.list-section ul {
+      color: #66269e;
+font-size: 1.2rem;
+  list-style-type: none;
+  padding-left: 1rem;
+}
+
+.list-section li {
+  margin-bottom: 1rem;
+  font-weight: bold;
+}
+
+.center {
+  text-align: center;
+  margin-top: 2rem;
+}

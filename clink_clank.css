@@ -1,0 +1,48 @@
+body {
+    background: url('./assets/pale_iris_background.jpg') repeat;
+    margin: 0;
+    padding: 0;
+    font-family: "Comic Sans MS", sans-serif;
+    line-height: 1.6;
+    color: #6c5673;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  vertical-align: top;
+  text-align: center;
+}
+
+td {
+  vertical-align: top;
+  text-align: center;
+}
+
+.title {
+  font-family: 'BernhardMod BT';
+  font-size: 2rem;
+  color: #7c6483;
+  margin: 0.5em 0;
+}
+
+.section-divider {
+    width: 80%;
+    border-color: #675f9c;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+p {
+  margin: 0.2rem;
+  font-size: 1.1rem;
+}
+
+
+.center {
+    text-align: center;
+    margin-top: 2rem;
+}

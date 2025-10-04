@@ -1,0 +1,53 @@
+body {
+    background: url('./assets/geometric_background.gif') repeat;
+    color: #ead9ed;
+    font-family: 'BernhardMod BT', sans-serif;
+    line-height: 1.4;
+}
+
+.center {
+    text-align: center;
+}
+
+.poem-title {
+    font-size: large;
+    color: #e4d7e6;
+    font-weight: bold;
+}
+
+.section-title {
+    font-family: 'BernhardMod BT';
+    color: #7C4A86;
+}
+
+.text1{
+    color: #b9a2d2;
+    font-family: 'BernhardMod BT';
+    font-size: large;
+}
+
+.section-divider {
+    width: 80%;
+    border-color: #7C4A86;
+}
+
+.text2 {
+    color: #01c0c0;
+    font-family: 'BernhardMod BT';
+    font-size: large;
+}
+
+.text3 {
+    color: #528e8e;
+    font-family: 'BernhardMod BT';
+    font-size: larger;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
